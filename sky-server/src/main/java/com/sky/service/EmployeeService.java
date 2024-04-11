@@ -6,7 +6,7 @@ import com.sky.entity.Employee;
 public interface EmployeeService {
 
     /**
-     * 员工登录
+     * 员工登录实现
      * @param employeeLoginDTO
      * @return
      */
